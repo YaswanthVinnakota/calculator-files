@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-image: linear-gradient(to right, black , rgb(153, 248, 252));
+  
+}
+
+h4{
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+}
+
+button{
+  padding: 5px;
+  margin: 4px;
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
